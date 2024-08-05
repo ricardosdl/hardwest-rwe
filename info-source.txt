@@ -1,0 +1,18 @@
+interesting code:
+
+//load saved game
+CFG_SG_Manager.cs:
+public static bool LoadSaveGameFile(string strFileName)
+
+//code that reads the save file and load it
+CFG_SG_Container.cs:
+public bool LoadData(string FileName)
+
+//takes an array and decodes it to generate
+//the bytes of a xml file?
+CFG_SG_Container.cs:
+public static byte[] EncodeArray(byte[] arr, bool bSkipFirst)
+
+//code to change the m_CurrentTargetPoint and limit to the map borders
+CFGCamera.cs
+private void Pan(Vector3 vector)

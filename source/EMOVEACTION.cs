@@ -1,0 +1,6 @@
+public enum EMOVEACTION
+{
+	SHOOT_AT,
+	ROTATE_AT,
+	SUSPICIOUS_CHECK
+}

@@ -1,0 +1,25 @@
+public enum ECardHandBonus
+{
+	None,
+	HighCard,
+	Pair,
+	TwoPairs,
+	Straight,
+	ThreeOfAKind,
+	FullHouse,
+	Flush,
+	FourOfAKind,
+	StraightFlush,
+	RoyalFlush,
+	FiveOfAKind,
+	DLC_Leve1,
+	DLC_Leve2,
+	DLC_Leve3,
+	DLC_Leve4,
+	DLC_Leve5,
+	DLC_Cursed,
+	DLC_Ubermensh,
+	DLC_UniversalSoldier,
+	DLC_Monster,
+	DLC_Zombie
+}
